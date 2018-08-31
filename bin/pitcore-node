@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var pitcore = require('../lib/cli/bitcore');
+pitcore();
