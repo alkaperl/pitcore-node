@@ -75,7 +75,7 @@
   },
   "devDependencies": {
     "benchmark": "1.0.0",
-    "pitcore-p2p": "^1.1.2",
+    "pitcore-p2p": "alkaperl/pitcore-p2p",
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.3",
